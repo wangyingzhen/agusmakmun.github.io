@@ -1,11 +1,11 @@
-title: yzwang’s blog
-description: My Personal  Blog
-author: 王英珍
-github: https://github.com/wangyingzhen
-about: a bioinformatic worker
-disqus_shortname: Blog
+title: 文章列表
+description: My Personal learning notes
+author: 王 英珍
+github: https://github.com/wangyz666
+about: 生信小鲜肉
+disqus_shortname: learningnotes
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/snp.png
 
 enableTags: true
 tagarray: []
@@ -16,22 +16,28 @@ collections:
     permalink: /project/:path/
 
 social:
-        - icon: fa-github
-      link: "https://github.com/wangyingzhen”
+    - icon: fa-qq
+      link: "http://user.qzone.qq.com/296085360/"
+    - icon: fa-twitter
+      link: "https://twitter.com/"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/wangyz666"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: wangyz666
+  fb_appid: ##
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://wangyingzhen.github.io"
+url: "https://agusmakmun.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
