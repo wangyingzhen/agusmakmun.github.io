@@ -1,11 +1,11 @@
-title: 文章列表
-description: My Personal learning notes
-author: 王 英珍
-github: https://github.com/wangyz666
-about: 生信小鲜肉
-disqus_shortname: learningnotes
+title: Stack Problems
+description: 个人博客
+author: 王英珍
+github: https://github.com/wangyingzhen
+about: 生物信息工作者；肿瘤生物信息学
+disqus_shortname: 个人博客
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/snp.png
+avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -16,28 +16,30 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-qq
-      link: "http://user.qzone.qq.com/296085360/"
+    - icon: fa-facebook
+      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/"
+      link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/in/summonagus"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/wangyz666"
+      link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: wangyz666
-  fb_appid: ##
+  twitter_username: agusmakmun6
+  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
+    - text: My Projects
+      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://wangyingzhen.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
