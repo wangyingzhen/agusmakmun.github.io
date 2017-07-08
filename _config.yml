@@ -1,8 +1,8 @@
-title: Stack Problems
+title: yzwang’s blog
 description: My Personal  Blog
 author: 王英珍
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+github: https://github.com/wangyingzhen
+about: a bioinformatic worker
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -16,16 +16,8 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      - icon: fa-github
+      link: "https://github.com/wangyingzhen”
 
 share:
   twitter_username: agusmakmun6
@@ -39,7 +31,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://wangyingzhen.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
