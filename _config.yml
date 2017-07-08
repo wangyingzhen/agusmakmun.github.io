@@ -16,7 +16,7 @@ collections:
     permalink: /project/:path/
 
 social:
-      - icon: fa-github
+        - icon: fa-github
       link: "https://github.com/wangyingzhen”
 
 share:
