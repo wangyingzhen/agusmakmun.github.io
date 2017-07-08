@@ -17,15 +17,13 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://user.qzone.qq.com/296085360/"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/summonagus"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/wangyingzhen”
 
 share:
   twitter_username: agusmakmun6
