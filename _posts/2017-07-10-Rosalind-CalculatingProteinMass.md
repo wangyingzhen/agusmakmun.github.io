@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Rosalind-REVP-Locating_Restriction_Sites"  
+title:  "CalculatingProteinMass"  
 date:   2017-07-08 17:54:23 +0700  
 
 ---
