@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "CalculatingProteinMass"  
+title:  "Rosalind-Calculating-Protein-Mass"  
 date:   2017-07-08 17:54:23 +0700  
 
 ---
