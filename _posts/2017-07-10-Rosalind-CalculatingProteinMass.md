@@ -4,6 +4,7 @@ title:  "CalculatingProteinMass"
 date:   2017-07-08 17:54:23 +0700  
 
 ---
+
 `Rosalind` `perl`
 
 ### [PRTM]：[Calculating Protein Mass](http://rosalind.info/problems/prtm/)
