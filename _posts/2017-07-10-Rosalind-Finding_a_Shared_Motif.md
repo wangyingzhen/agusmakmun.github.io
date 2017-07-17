@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Finding a Shared Motif"  
+title:  "Finding-a-Shared-Motif"  
 date:   2017-07-05 12:11:13 +0700  
 
 ---

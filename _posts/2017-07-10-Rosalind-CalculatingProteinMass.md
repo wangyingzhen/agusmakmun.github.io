@@ -24,9 +24,7 @@ date:   2017-07-08 17:54:23 +0700
     print $tol;
 
 
-markdown 不知道怎么换行真是头疼。。。后边再改进吧
-
 -------------
 *Author*: 王英珍   
 *qq*: 296085360  
-*email*:wangyz666@outlook.com  
+*email*:wangyingzhen91@163.com  
