@@ -1,13 +1,13 @@
 ---
 layout: post  
 title:  "Rosalind-Counting-Point-Mutations"  
-date:   2017-07-08 17:54:23 +0700  
+date:   2017-07-11 17:54:23 +0700  
 
 ---
 
 `Rosalind` `perl`
 
-[Counting-Point-Mutations](http://rosalind.info/problems/grph/)   
+### [Counting-Point-Mutations](http://rosalind.info/problems/grph/)   
 ### perl script:
 
 	#!/usr/bin/perl -w
