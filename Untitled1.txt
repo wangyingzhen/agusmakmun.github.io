@@ -1,0 +1,15 @@
+for i in range(1,5):
+	for j in range(1,5):
+		for k in range(1,5):
+			if (i!=k)and(k!=j)and(j!=i):
+				print i,j,k
+
+
+d=[]
+for i in range(1,5):
+	for j in range(1,5):
+		for k in range(1,5):
+			if (i!=k)and(k!=j)and(j!=i):
+				d.append[i,j,k]
+print "total:",len(d)
+print d
