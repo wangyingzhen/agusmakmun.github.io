@@ -71,7 +71,7 @@ date:   2017-07-26 14:26:13 +0700
 
 
 ### shell
-    cat Homo_sapiens.GRCh38.87.chr.gtf |awk '$3~/gene/{print $1,$3}'|sort|uniq -c|less -S
+    cat Homo_sapiens.GRCh38.87.chr.gtf |awk '$3~/gene/{print $1,$3}'|sort|uniq -c|less -S  
 ### perl one line
     cat Homo_sapiens.GRCh38.87.chr.gtf.gz|perl -lane 'next if /^#/;if $F[2] eq 'gene'{print}'|sort|uniq -c|less -S
 
