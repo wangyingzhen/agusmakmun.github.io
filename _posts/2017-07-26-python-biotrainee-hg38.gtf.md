@@ -4,7 +4,7 @@ title:  "python-biotrainee-test3-hg38.gtf"
 date:   2017-07-26 14:26:13 +0700  
 
 ---
-`python` `GCcontent`
+`python` `hg38.gtf`
 
 ### test
 对hg38的gtf文件进行探究（每条染色体基因数目统计等等）
@@ -24,6 +24,7 @@ date:   2017-07-26 14:26:13 +0700
 	with open(sys.argv[1],"r") as f:
 		for line in f:
 			if line.startswith('#'):
+				continue
 			line=line.rstrip()
 			chr=line.split('\t')[0]
 			gene_type=line.split('\t')[2]
