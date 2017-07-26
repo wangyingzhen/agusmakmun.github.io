@@ -15,6 +15,7 @@ date:   2017-07-26 17:54:23 +0700
     do
     sh tmp.sh >num_$i.txt
     done
+
 ### perl
     #!usr/bin/perl -w
     use strict;
@@ -35,6 +36,8 @@ date:   2017-07-26 17:54:23 +0700
             }
             print "\n";
     }
+
+
 ### shell+R
     >shell
     awk 'print FLIENAME"\t"$0' *.txt >tmp.txt
