@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:  "perl-shell-biotrainee-test4-combin"  
-date:   2017-07-08 17:54:23 +0700  
+date:   2017-07-26 17:54:23 +0700  
 
 ---
 
