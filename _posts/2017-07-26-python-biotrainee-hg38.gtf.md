@@ -76,5 +76,10 @@ date:   2017-07-26 14:26:13 +0700
 ### perl one line
     cat Homo_sapiens.GRCh38.87.chr.gtf.gz|perl -lane 'next if /^#/;if $F[2] eq 'gene'{print}'|sort|uniq -c|less -S
 
+
+参考 [biotraninee](http://www.biotrainee.com/thread-626-1-1.html)
+  
+
+
 ---------
 *放慢脚步,深耕细作。*
