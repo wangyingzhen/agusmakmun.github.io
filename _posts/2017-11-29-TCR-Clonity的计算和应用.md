@@ -15,7 +15,7 @@ date:   2017-11-29 00:00:00 +0700
 ### 计算公式
 1.先计算信息熵  
 ![](https://note.youdao.com/yws/api/personal/file/9155277764A040078183A37CF3AA4F3C?method=download&shareKey=d0199ed4f0f3259677d1089cfd2d22ea)   
-2. normalized and inverted(This conversion is intended to generate values that agree with intuition)  
+2.normalized and inverted(This conversion is intended to generate values that agree with intuition)  
 ![](https://note.youdao.com/yws/api/personal/file/973BDE1777A94D188D9A53040B45C322?method=download&shareKey=61f72111681b7c8268ae2be8c5d1c49c)
 
 ### 相关应用
