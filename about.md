@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A master in National pear industry technology research and development center of NJAU.
+南京农业大学硕士  
+Bioinformatic,Python,R,Perl,shell
 
 -----
 email: wangyingzhen91@163.com  
